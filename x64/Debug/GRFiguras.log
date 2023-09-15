@@ -1,2 +1,3 @@
 ﻿  GRFiguras.cpp
+C:\Users\USER\Desktop\VISUAL STUDIO\GRFiguras\GRFiguras\GRFiguras.cpp(8,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
   GRFiguras.vcxproj -> C:\Users\USER\Desktop\VISUAL STUDIO\GRFiguras\x64\Debug\GRFiguras.exe
